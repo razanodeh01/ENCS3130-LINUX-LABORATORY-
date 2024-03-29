@@ -1,1 +1,1 @@
-"# ENCS3130-LINUX-LABORATORY-" 
+# Automated Linux/Unix Command Manual Generation.
